@@ -1,0 +1,13 @@
+# Ignore environment file
+.env
+
+# Ignore virtual environment folder
+job_agent/
+
+PythonProject/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
